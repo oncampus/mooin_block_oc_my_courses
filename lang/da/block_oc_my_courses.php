@@ -23,11 +23,11 @@
  * @author     Yuliya Bozhko <yuliya.bozhko@totaralms.com>
  */
 
-$string['pluginname'] = 'Deine Kurse';
+$string['pluginname'] = 'Dine kurser';
 $string['oc_my_courses:addinstance'] = 'Neuen My Courses Block hinzufügen';
 $string['oc_my_courses:myaddinstance'] = 'Neuen My Courses Block auf meiner Startseite hinzufügen';
 $string['edit_profile'] = 'Profil bearbeiten';
 $string['blocktitle'] = 'Blocktitel';
-$string['mooin_courses'] = 'Kurse bei mooin';
+$string['mooin_courses'] = 'Kurser på mooin';
 
 $string['of_5'] = 'von 5';

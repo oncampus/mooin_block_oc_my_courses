@@ -13,10 +13,14 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
 /**
- * @package   block_oc_my_courses
- * @copyright 2015 oncampus
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * Version details
+ *
+ * @package    block_oc_course_footer
+ * @copyright  2014 oncampus GmbH
+ * @license    
+ * @author     Jan Rieger jan.rieger@fh-luebeck.de
  */
 
 defined('MOODLE_INTERNAL') || die();

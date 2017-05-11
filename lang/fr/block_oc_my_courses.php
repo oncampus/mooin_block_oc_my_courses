@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // This file is part of Moodle - http://moodle.org/
 //
 // Moodle is free software: you can redistribute it and/or modify
@@ -23,11 +23,11 @@
  * @author     Yuliya Bozhko <yuliya.bozhko@totaralms.com>
  */
 
-$string['pluginname'] = 'Deine Kurse';
-$string['oc_my_courses:addinstance'] = 'Neuen My Courses Block hinzufügen';
-$string['oc_my_courses:myaddinstance'] = 'Neuen My Courses Block auf meiner Startseite hinzufügen';
-$string['edit_profile'] = 'Profil bearbeiten';
-$string['blocktitle'] = 'Blocktitel';
-$string['mooin_courses'] = 'Kurse bei mooin';
+$string['pluginname'] = 'Vos cours';
+$string['oc_my_courses:addinstance'] = 'Ajouter nouveau bloc Votre cours';
+$string['oc_my_courses:myaddinstance'] = 'Ajouter nouveau bloc Votre cours sà votre page d\'accueil';
+$string['edit_profile'] = 'Modifier le profil';
+$string['blocktitle'] = 'Titre du bloc';
+$string['mooin_courses'] = 'Les cours à mooin';
 
-$string['of_5'] = 'von 5';
+$string['of_5'] = 'of 5';

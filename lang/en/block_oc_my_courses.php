@@ -13,10 +13,14 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
 /**
- * @package   block_oc_my_courses
- * @copyright 2015 oncampus
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * Language file for block "badges"
+ *
+ * @package    block_badges
+ * @copyright  2012 onwards Totara Learning Solutions Ltd {@link http://www.totaralms.com/}
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @author     Yuliya Bozhko <yuliya.bozhko@totaralms.com>
  */
 
 $string['pluginname'] = 'Your courses';
@@ -25,3 +29,5 @@ $string['oc_my_courses:myaddinstance'] = 'Add a new oc_my_courses block to My ho
 $string['edit_profile'] = 'Edit profile';
 $string['blocktitle'] = 'Blocktitle';
 $string['mooin_courses'] = 'courses at mooin';
+
+$string['of_5'] = 'of 5';
