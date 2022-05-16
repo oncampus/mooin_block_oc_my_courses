@@ -19,12 +19,12 @@
  *
  * @package    block_oc_course_footer
  * @copyright  2014 oncampus GmbH
- * @license    
+ * @license
  * @author     Jan Rieger jan.rieger@fh-luebeck.de
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2015030200;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2013050100;        // Requires this Moodle version.
+$plugin->version = 2015030200;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->requires = 2013050100;        // Requires this Moodle version.
 $plugin->component = 'block_oc_my_courses';

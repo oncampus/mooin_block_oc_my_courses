@@ -13,28 +13,28 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
-
+defined('MOODLE_INTERNAL') || die();
 $capabilities = array(
         'block/oc_my_courses:myaddinstance' => array(
-        'captype' => 'write',
-        'contextlevel' => CONTEXT_SYSTEM,
-        'archetypes' => array(
-			'student' => CAP_ALLOW,
-            'teacher' => CAP_ALLOW,
-            'editingteacher' => CAP_ALLOW,
-			'manager' => CAP_ALLOW,
-			'user' => CAP_ALLOW
+                'captype' => 'write',
+                'contextlevel' => CONTEXT_SYSTEM,
+                'archetypes' => array(
+                        'student' => CAP_ALLOW,
+                        'teacher' => CAP_ALLOW,
+                        'editingteacher' => CAP_ALLOW,
+                        'manager' => CAP_ALLOW,
+                        'user' => CAP_ALLOW
+                )
+        ),
+        'block/oc_my_courses:addinstance' => array(
+                'captype' => 'write',
+                'contextlevel' => CONTEXT_SYSTEM,
+                'archetypes' => array(
+                        'student' => CAP_ALLOW,
+                        'teacher' => CAP_ALLOW,
+                        'editingteacher' => CAP_ALLOW,
+                        'manager' => CAP_ALLOW,
+                        'user' => CAP_ALLOW
+                )
         )
-    ),
-    'block/oc_my_courses:addinstance' => array(
-        'captype' => 'write',
-        'contextlevel' => CONTEXT_SYSTEM,
-        'archetypes' => array(
-			'student' => CAP_ALLOW,
-            'teacher' => CAP_ALLOW,
-            'editingteacher' => CAP_ALLOW,
-			'manager' => CAP_ALLOW,
-			'user' => CAP_ALLOW
-        )
-    )
 );
